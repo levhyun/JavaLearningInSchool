@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java.string;
+package kr.hs.dgsw.java.String;
 
 public class StringReplace {
     static void showReplace(String str, String before, String after) {

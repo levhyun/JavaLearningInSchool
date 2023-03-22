@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java;
+package kr.hs.dgsw.java.FirstClasses;
 
 public class School {
     String schoolName = "대구 소프트웨어 마이스터 고등학교";

@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java;
+package kr.hs.dgsw.java.FirstClasses;
 
 public class Accumulator {
     int money;

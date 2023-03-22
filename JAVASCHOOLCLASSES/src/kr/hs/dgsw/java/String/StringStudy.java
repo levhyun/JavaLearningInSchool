@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java.string;
+package kr.hs.dgsw.java.String;
 
 public class StringStudy {
     public static void main(String[] args) {

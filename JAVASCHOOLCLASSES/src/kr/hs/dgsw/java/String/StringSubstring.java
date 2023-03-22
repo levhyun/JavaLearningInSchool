@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java.string;
+package kr.hs.dgsw.java.String;
 
 public class StringSubstring {
     static void showSubstring(String str, int from, int to) {
