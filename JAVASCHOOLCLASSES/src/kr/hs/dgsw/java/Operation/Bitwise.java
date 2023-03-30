@@ -24,21 +24,27 @@ public class Bitwise {
         // 비트 OR (|) : 하나라도 참이라면 참
         result  = op1 ^ op2; // 0110 -> 6
         // 비트 XOR (^) : 서로 다르면 참
-        result  = ~op1; // 1010 -> 10
+        result  = ~op1; // 1010 -> -6
         // 비트 NOT (~) : 부정
-        result  = ~op2; // 1100 -> 12
+        result  = ~op2; // 0000 0011 -> 1111 1100 -> -4
+        System.out.println("result = " + result);
         // 비트 NOT (~) : 부정
 
-        result  = op1 << op2;
-        // 비트 값을 왼쪽으로 지정된 수만큼 이동시킵니다.
-        // 예: 0b0011 << 2 = 0b1100
-        result  = op1 >> op2;
-        // 비트 값을 오른쪽으로 지정된 수만큼 이동시킵니다.
-        // 이동된 비트의 최상위 비트는 이동 전과 같은 값으로 채워집니다.
-        // 예: 0b1100 >> 2 = 0b0011
-        result  = op1 >>> op2;
-        // 비트 값을 오른쪽으로 지정된 수만큼 이동시킵니다.
-        // 이동된 비트의 최상위 비트는 항상 0으로 채워집니다.
-        // 예: 0b1100 >>> 2 = 0b0011
+        // 비트연산자 - 시프트 연산자
+        byte res;
+        byte value = 6;
+        int cnt = 1;
+
+        int res2;
+        int value2 = -1;
+
+        // 왼쪽 시프트
+        res = (byte)(value << cnt); // 0110 -> 1100 = 12
+        // 오른쪽 시프트
+        res = (byte)(value >> cnt); // 0110 -> 0011 = 3
+
+        // 부호 없는 오른쪽 시프트
+        res2 = (value2 >>> cnt);
+        System.out.printf("%02X >>> %d = %02X", value2, cnt, res2);
     }
 }
