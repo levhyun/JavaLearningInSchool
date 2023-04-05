@@ -1,6 +1,6 @@
 package kr.hs.dgsw.java.DataType;
 
-public class dataType {
+public class DataType {
     public static void main(String[] args) {
         // 정수
         byte byteValue = 1;

@@ -2,7 +2,7 @@ package kr.hs.dgsw.java.Scanner;
 
 import java.util.Scanner;
 
-public class plus {
+public class Plus {
     public static int a;
     public static int b;
     public static int result;
@@ -21,7 +21,7 @@ public class plus {
         return a + b;
     }
     public static void main(String[] args) {
-        result = plus.plusIntValue();
+        result = Plus.plusIntValue();
         System.out.println("result = " + result);
     }
 }
