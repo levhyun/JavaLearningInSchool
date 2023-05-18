@@ -23,7 +23,7 @@ public class SelectionSort { // 정렬 클래스
 
     private int[] doSelectionSorting(int[] unsorted) { // 정렬 함수
         // TODO : 선택 정렬을 통해서 unsorted 오름차순으로 정렬해서 반환하세요.
-        for(int i = 0; i < unsorted.length-1; i++){
+        for(int i = 0; i < unsorted.length; i++){
             int minIndex = findMinIndex(unsorted, i, i+1, unsorted.length-1);
             unsorted = swap(unsorted, i ,minIndex);
         }
