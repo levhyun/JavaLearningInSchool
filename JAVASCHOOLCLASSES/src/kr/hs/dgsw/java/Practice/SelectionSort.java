@@ -2,7 +2,7 @@ package kr.hs.dgsw.java.Practice;
 
 public class SelectionSort { // 정렬 클래스
     public int[] sort(int[] unsorted) { // 정렬된 배열 반환 함수
-        return this.doSelectionSorting(unsorted); // 정렬도니 배열 반환
+        return this.doSelectionSorting(unsorted); // 정렬된 배열 반환
     }
 
     private int findMinIndex(int[] array, int compareIndex, int startIndex, int endIndex) {
