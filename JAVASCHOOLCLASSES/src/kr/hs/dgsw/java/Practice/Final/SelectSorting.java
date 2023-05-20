@@ -4,8 +4,11 @@ public class SelectSorting {
     private int[] array;
     private int arraySize;
 
-    private void setArray(int[] araay, int araaySize) {
+    private void setArray(int[] araay) {
         this.array = araay;
+    }
+
+    private void setArraySize(int araaySize) {
         this.arraySize = araaySize;
     }
 
@@ -42,7 +45,8 @@ public class SelectSorting {
     }
 
     public int[] sort(int[] array) {
-        setArray(array, array.length);
+        setArray(array);
+        setArraySize(array.length);
         return sortingArray();
     }
 }
