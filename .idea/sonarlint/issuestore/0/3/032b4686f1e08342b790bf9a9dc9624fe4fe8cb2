@@ -1,0 +1,86 @@
+
+m
+java:S1192"WDefine a constant instead of duplicating this literal "%s ì¡´ì¬ ì—¬ë¶€ : %b
+" 3 times.(æœÊî
+Ğ
+java:S1192b"´Define a constant instead of duplicating this literal "C:\\Users\\g8808\\Documents\\GitHub\\JavaLearningInSchool\\JAVASCHOOLCLASSES\\src\\kr\\hs\\dgsw\\java\\File\\subDir" 4 times.(Ä¤éÿÿÿÿÿ
+u
+java:S1192""ZDefine a constant instead of duplicating this literal "%sì˜ ì¡´ì¬ ì—¬ë¶€ : %b
+" 4 times.(Á±¶œûÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ºõÀ­üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕúÛ˜üÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(îá°ûÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(¬´ş°ûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(æœÊî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æœÊî
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¾»øÓÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¾»øÓÿÿÿÿÿ
+V
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(øğe
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(äÑù›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÑù›
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(‰»ñ˜ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰»ñ˜ûÿÿÿÿ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(×Şúµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Şúµ
+g
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÿ±Ä
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ±Ä
+l
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¨¯®—ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¯®—ùÿÿÿÿ
+l
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(Á±¶œûÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Á±¶œûÿÿÿÿ
+\	java:S899$"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ
+>	java:S108%")Either remove or fill this block of code.(ï­£Ä
+l
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(Á±¶œûÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(Á±¶œûÿÿÿÿ
+l
+java:S3457-"Q%n should be used in place of \n to produce the platform-specific line separator.(Á±¶œûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Á±¶œûÿÿÿÿ
+U	java:S899.";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ
+i
+java:S4042."NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ
+l
+java:S3457/"Q%n should be used in place of \n to produce the platform-specific line separator.(Á±¶œûÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Á±¶œûÿÿÿÿ
+P	java:S8999";Do something with the "boolean" value returned by "delete".(íÔˆ¢
+d
+java:S40429"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(íÔˆ¢
+l
+java:S3457>"Q%n should be used in place of \n to produce the platform-specific line separator.(çÕÊ¥üÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(çÕÊ¥üÿÿÿÿ
+g
+java:S3457A"Q%n should be used in place of \n to produce the platform-specific line separator.(…š‘ë
+N	java:S106A"9Replace this use of System.out or System.err by a logger.(…š‘ë
+g
+java:S3457G"Q%n should be used in place of \n to produce the platform-specific line separator.(¯‚÷Ê
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(¯‚÷Ê
+l
+java:S3457O"Q%n should be used in place of \n to produce the platform-specific line separator.(—³—ùøÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(—³—ùøÿÿÿÿ
+l
+java:S3457R"Q%n should be used in place of \n to produce the platform-specific line separator.(Ú˜æøÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(Ú˜æøÿÿÿÿ
+U
+java:S1854Y":Remove this useless assignment to local variable "subDir".(ªòûÿÿÿÿ
+\
+java:S1075Y"ARefactor your code to get this URI from a customizable parameter.(ªòûÿÿÿÿ
+F
+java:S1481Y"+Remove this unused "subDir" local variable.(ªòûÿÿÿÿ
+Q	java:S125Z"<This block of commented-out lines of code should be removed.(åÌÿ
+\
+java:S1075e"ARefactor your code to get this URI from a customizable parameter.(£åºÁşÿÿÿÿ
+\
+java:S1075l"ARefactor your code to get this URI from a customizable parameter.(‡ªó¨ùÿÿÿÿ
+I
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
